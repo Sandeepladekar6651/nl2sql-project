@@ -25,11 +25,11 @@ LIMIT 5;
 
 # Tech Stack
 
-Python
-FastAPI
-SQLite
-Google Gemini LLM
-Pandas
+- Python
+- FastAPI
+- SQLite
+- Google Gemini LLM
+- Pandas
 
 ---
 
@@ -145,30 +145,30 @@ Convert natural language question into SQL and return results.
 
 ---
 
-# Example Queries
+## Example Queries
 
 You can test queries like:
 
-Show total revenue
-Show top 5 patients by spending
-List all doctors
-Count total appointments
+- Show total revenue
+- Show top 5 patients by spending
+- List all doctors
+- Count total appointments
 
 ---
 
-# Features
+## Features
 
-Natural language query support
-Automatic SQL generation using Gemini
-SQLite database execution
-FastAPI REST API
-Swagger API documentation
+- Natural language query support
+- Automatic SQL generation using Gemini
+- SQLite database execution
+- FastAPI REST API
+- Swagger API documentation
 
 ---
 
-# Future Improvements
+## Future Improvements
 
-Add query validation
-Improve prompt engineering
-Add caching for repeated queries
-Support multiple databases
+- Add query validation
+- Improve prompt engineering
+- Add caching for repeated queries
+- Support multiple databases

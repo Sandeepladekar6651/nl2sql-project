@@ -57,8 +57,8 @@ nl2sql_project
 ## 1 Clone the Repository
 
 ```
-git clone <your-repository-link>
-cd nl2sql_project
+git clone https://github.com/Sandeepladekar6651/nl2sql-project.git
+cd nl2sql-project
 ```
 
 ---
